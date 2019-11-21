@@ -10,3 +10,11 @@ You need to create a file _.env_ in root directory in the project, then put PUBL
 - Paginate
 - Heroes limit on page
 - Hero modal
+
+## Screenshots
+
+![](./screenshots/1-home.png)
+_Home_
+
+![](./screenshots/2-search.png)
+_Searching_
