@@ -17,4 +17,4 @@ You need to create a file _.env_ in root directory in the project, then put PUBL
 _Home_
 
 ![](./screenshots/2-search.png)
-_Searching_
+_Hero not found_
